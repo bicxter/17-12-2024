@@ -1,4 +1,4 @@
-double pitRadius = 5; // initialise all the values 
+double pitRadius = 5;
 double pitHeight = 0.2;
 double ballRadius = 0.05;
 
